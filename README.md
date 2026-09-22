@@ -100,3 +100,4 @@ This project was built while learning FastAPI from scratch, covering:
 - Add input validation (e.g. reject empty titles)
 - Connect to a real database instead of an in-memory list
 - Add an update (`PUT`) endpoint
+- 
