@@ -73,3 +73,4 @@ def delete_book(book_id: int):
         status_code=404,
         detail="Book not found"
     )
+ 
